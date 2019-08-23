@@ -11,6 +11,6 @@ Il lui dit qu'il n'a jamais vu de tigres dans cette région.
 Elle lui répond avec un sourire: "C'est bien la preuve que ma poudre marche".
 
 L'homme trouve qu'il fait chaud dans le train donc il ouvre la fenetre et la dame s'écrie 
-- : ["Oh nooooon, n'ouvrez surtout pas les fenetres cela va attirer les moustiques d'Inde!"]
-- : ["Pourquoi pas?"]
-- : ["Les moustiques d'Inde peuvent vous injecter un serum qui vous rendra sans personnalité pour toujours"]
+- "Oh nooooon, n'ouvrez surtout pas les fenetres cela va attirer les moustiques d'Inde!"
+- "Pourquoi pas?"
+- "Les moustiques d'Inde peuvent vous injecter un serum qui vous rendra sans personnalité pour toujours"
