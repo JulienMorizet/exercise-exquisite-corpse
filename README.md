@@ -1,1 +1,1 @@
-# exercise-exquisite-corpse
+Le voyage absurde
